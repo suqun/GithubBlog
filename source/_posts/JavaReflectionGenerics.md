@@ -44,7 +44,7 @@ Type[]数组typeArguments只有一个结果 – 一个代表java.lang.String的C
 
 #### Generic Method Parameter Types
 
-You can also access the generic types of parameter types at runtime via Java Reflection. Here is an example class with a method taking a parameterized List as parameter:
+使用Java反射还可以获取参数上的泛型，例子如下：
 
 ```java
     public class MyClass {
@@ -57,7 +57,7 @@ You can also access the generic types of parameter types at runtime via Java Ref
     }
 ```
 
-You can access the generic parameter types of the method parameters like this:
+像下面这样获取参数上的泛型：
 
 ```java
         Method method2 = MyClass.class.getMethod("setStringList", List.class);
@@ -74,11 +74,11 @@ You can access the generic parameter types of the method parameters like this:
         }
 ```
 
-This code will print out the text "parameterArgType = java.lang.String". The Type[] array parameterArgTypes array will contain one item - a Class instance representing the class java.lang.String. Class implements the Type interface.
+这段代码打印出"parameterArgType = java.lang.String"。parameterArgTypes这个数组包含的是代表java.lang.String的Class类的实例。Class类实现了Type接口。
 
 #### Generic Field Types
 
-It is also possible to access the generic types of `public` fields. Fields are class member variables - either static or instance variables. 
+访问public的泛型变量，无论这个变量是一个类的静态成员变量或是实例成员变量。
 
 ```java
     public class MyClass {
@@ -101,7 +101,4 @@ It is also possible to access the generic types of `public` fields. Fields are c
     }
 ```
 
-This code will print out the text "fieldArgClass = java.lang.String". The Type[] array fieldArgTypes array will contain one item - a Class instance representing the class java.lang.String. Class implements the Type interface.
-
-
-
+这段代码打印出"fieldArgClass = java.lang.String"。fieldArgTypes这个数组包含的是代表java.lang.String的Class类的实例。Class类实现了Type接口。
