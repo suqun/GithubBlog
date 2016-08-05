@@ -4,6 +4,7 @@ date: 2016-02-17 22:32:06
 tags:
     - Spring
     - SpringBoot
+toc: true
 ---
 
 原文地址：[天码营-SpringBoot参考指南](http://course.tianmaying.com/spring-boot-reference/lesson/lesson-11#0) 本文只是学习笔记

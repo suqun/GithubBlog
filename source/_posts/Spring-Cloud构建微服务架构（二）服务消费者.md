@@ -6,6 +6,7 @@ tags:
     - SPRING CLOUD
     - NETFLIX
     - EUREKA
+toc: true
 ---
 
 原文 : [Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)

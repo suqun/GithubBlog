@@ -4,6 +4,7 @@ date: 2015-12-28 22:40:00
 tags: 
     - zookeeper
     - 分布式
+toc: true
 ---
 
 #### 集群模式安装

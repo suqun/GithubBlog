@@ -3,6 +3,7 @@ title: Java反射之私有变量和私有方法
 date: 2016-05-14 00:52:55
 tags:
     - Java
+toc: true
 ---
 原文地址[Java Reflection Methods](http://tutorials.jenkov.com/java-reflection/private-fields-and-methods.html)
 

@@ -4,6 +4,7 @@ date: 2016-01-02 20:40:52
 tags: 
     - shell
     - linux
+toc: true
 ---
 
 ## Shell 概述

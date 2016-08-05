@@ -4,6 +4,7 @@ date: 2016-01-04 22:34:27
 tags: 
     - shell
     - linux
+toc: true
 ---
 
 ### 变量

@@ -1,11 +1,12 @@
 ---
-title: Spring Cloud构建微服务架构（四) 集群
+title: Spring Cloud构建微服务架构（四）集群
 date: 2016-08-05 10:07:59
 tags: 
     - SPRING BOOT
     - SPRING CLOUD
     - NETFLIX
     - EUREKA
+toc: true
 ---
 
 前面三篇都分享自[程序猿DD](http://blog.didispace.com/)的博客,暂时(2016年08月05日)还没有更新关于Eureka集群的博客。

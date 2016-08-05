@@ -3,6 +3,7 @@ title: 使用Spring Boot Jquery Datatables实现管理平台的表格
 date: 2016-04-03 14:21:46
 tags:
     - SpringBoot
+toc: true
 ---
 
 最近在公司做一个运营平台,增删改查的那种,需要一个多功能的表格,网上看到Jquery的DataTables功能很丰富,查询,排序,翻页等等功能完善,

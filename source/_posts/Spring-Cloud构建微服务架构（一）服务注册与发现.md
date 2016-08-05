@@ -6,6 +6,7 @@ tags:
     - SPRING CLOUD
     - NETFLIX
     - EUREKA
+toc: true
 ---
 
 原文 : [Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)

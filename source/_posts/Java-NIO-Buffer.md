@@ -2,6 +2,7 @@
 title: Java NIO Buffer
 date: 2016-06-28 22:10:31
 tags: Java NIO
+toc: true
 ---
 
 Java NIO Buffers是和NIO的Channels交互使用的。你知道的，数据是从Channel中读到Buffer里，数据从Buffer里写入到Channel中。 

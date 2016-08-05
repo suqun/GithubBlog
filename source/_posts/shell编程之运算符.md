@@ -4,6 +4,7 @@ date: 2016-01-09 12:14:05
 tags: 
     - shell
     - linux
+toc: true
 ---
 
 ### 声明变量类型declare

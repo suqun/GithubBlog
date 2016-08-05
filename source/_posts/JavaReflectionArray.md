@@ -3,6 +3,7 @@ title: Java反射之数组
 date: 2016-06-24 20:52:55
 tags:
     - Java
+toc: true
 ---
 原文地址[Java Reflection Arrays](http://tutorials.jenkov.com/java-reflection/arrays.html)
 

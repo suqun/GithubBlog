@@ -2,6 +2,7 @@
 title: Why Docker?
 date: 2015-12-30 23:42:52
 tags: Docker
+toc: true
 ---
 
 一直听说Docker怎么怎么厉害,不明所以,网上查了下,也只是简单了解.学技术还得去官网,尽管[Docker官网](http://www.docker.com/)都是英文,看的比较辛苦,不过一方面学技术,一方面学英语也是妙事.这一系列的Docker笔记,就边抄英文边翻译,边学技术吧.

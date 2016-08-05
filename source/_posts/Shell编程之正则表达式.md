@@ -4,6 +4,7 @@ date: 2016-01-13 21:38:39
 tags:
     - shell
     - linux
+toc: true
 ---
 
 ### 正则表达式与通配符

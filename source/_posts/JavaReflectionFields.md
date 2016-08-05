@@ -3,6 +3,7 @@ title: Java反射之变量
 date: 2016-05-12 00:52:55
 tags:
     - Java
+toc: true
 ---
 ### Java Reflection Fields
 原文地址[Java Reflection Fields](http://tutorials.jenkov.com/java-reflection/fields.html)
