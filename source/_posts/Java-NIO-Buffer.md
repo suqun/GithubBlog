@@ -1,7 +1,7 @@
 ---
 title: Java NIO Buffer
 date: 2016-06-28 22:10:31
-tags: Java NIO
+tags: JAVA NIO
 toc: true
 ---
 

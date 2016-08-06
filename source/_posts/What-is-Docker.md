@@ -1,7 +1,7 @@
 ---
 title: What is Docker?
 date: 2016-01-01 19:43:48
-tags: Docker
+tags: DOCKER
 toc: true
 ---
 

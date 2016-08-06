@@ -2,8 +2,8 @@
 title: Shell编程之变量
 date: 2016-01-04 22:34:27
 tags: 
-    - shell
-    - linux
+    - SHELL
+    - LINUX
 toc: true
 ---
 

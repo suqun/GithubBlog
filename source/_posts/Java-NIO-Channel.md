@@ -1,7 +1,7 @@
 ---
 title: Java NIO Channel
 date: 2016-06-26 21:04:43
-tags: Java NIO
+tags: JAVA NIO
 toc: true
 ---
 Java NIO 的Channels有些像流，但是也有一些区别：

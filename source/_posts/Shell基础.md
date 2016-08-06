@@ -2,8 +2,8 @@
 title: Shell基础
 date: 2016-01-02 20:40:52
 tags: 
-    - shell
-    - linux
+    - SHELL
+    - LINUX
 toc: true
 ---
 

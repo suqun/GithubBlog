@@ -2,7 +2,7 @@
 title: Java反射之方法
 date: 2016-05-13 00:52:55
 tags:
-    - Java
+    - JAVA
 toc: true
 ---
 原文地址[Java Reflection Methods](http://tutorials.jenkov.com/java-reflection/methods.html)

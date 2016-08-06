@@ -2,8 +2,7 @@
 title: zookeeper环境搭建
 date: 2015-12-28 22:40:00
 tags: 
-    - zookeeper
-    - 分布式
+    - ZOOKEEPER
 toc: true
 ---
 

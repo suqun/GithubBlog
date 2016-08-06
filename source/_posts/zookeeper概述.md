@@ -2,8 +2,7 @@
 title: zookeeper概述
 date: 2015-12-27 21:22:49
 tags: 
-    - zookeeper
-    - 分布式
+    - ZOOKEEPER
 toc: true
 ---
 

@@ -2,7 +2,7 @@
 title: Java反射之注解
 date: 2016-05-18 00:52:55
 tags:
-    - Java
+    - JAVA
 toc: true
 ---
 原文地址[Java Reflection Annotations](http://tutorials.jenkov.com/java-reflection/annotations.html)
