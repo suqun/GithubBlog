@@ -204,7 +204,7 @@ worker2.vagrant   Ready     10s
 
 ```bash
 [vagrant@master ~]$ etcdctl ls /coreos.com/network/subnets
-
+/coreos.com/network/subnets/172.17.29.0-24
 ```
 
 ### Guestbook部署到k8s中
