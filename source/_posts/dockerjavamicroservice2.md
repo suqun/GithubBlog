@@ -211,6 +211,13 @@ worker2.vagrant   Ready     10s
 
 [Guestbook example](https://github.com/kubernetes/kubernetes/blob/release-1.2/examples/guestbook/README.md)
 
+部署的过程中遇到2个问题
+
+1. 通过`kubectl create -f xxx.yaml`创建pod显示成功，但是通过 `kubectl get pod`命令确查询不到任何pod信息。解决方案可以参考：[ kubenetes无法创建pod/创建RC时无法自动创建pod的问题](http://www.voidcn.com/blog/jinzhencs/article/p-5975011.html)
+
+2. 解决了上面的问题后，可以get到pod信息，但是node节点通过查询docker images并未发现任何镜像，原因是因为国内的网络问题，无法下载到镜像所致。可以手动pull
+镜像：`registry.access.redhat.com/rhel7/pod-infrastructure`以及你所需的其他镜像。
+
 ### 总结
 
 这里的集群部署参考的是美团云分享的。都只是练手用的。
