@@ -60,7 +60,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
             config.ssh.username = "vagrant"
             config.ssh.password = "vagrant"
             config.vm.synced_folder ".", "/vagrant", disabled:true
-            config.vm.network  "private_network", ip: opts[:ip]
+            config.vm.network  "public_network", ip: opts[:ip]
             config.vm.hostname = "%s.vagrant" % opts[:name].to_s
             config.vm.provider "virtualbox" do |vb|
                 vb.customize ["modifyvm", :id, "--cpus", opts[:cpus] ] if opts[:cpus]
@@ -181,7 +181,7 @@ done
 
 **解决方法**：
 
-修改Node节点上的flanneld配置`/etc/sysconfig/flanneld`
+修改Node节点上的flanneld配置 `/etc/sysconfig/flanneld `
 
 ```bash
 FLANNEL_ETCD_KEY="/coreos.com/network"
