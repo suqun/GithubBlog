@@ -2,7 +2,7 @@
 title: Java反射之对象
 date: 2016-05-09 00:52:55
 tags:
-    - JAVA
+    - Java SE
 toc: true
 ---
 原文地址[Java Reflection Classes](http://tutorials.jenkov.com/java-reflection/classes.html)

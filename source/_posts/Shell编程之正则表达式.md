@@ -2,8 +2,8 @@
 title: Shell编程之正则表达式
 date: 2016-01-13 21:38:39
 tags:
-    - SHELL
-    - LINUX
+    - Shell
+    - Linux
 toc: true
 ---
 

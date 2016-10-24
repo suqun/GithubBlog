@@ -2,7 +2,7 @@
 title: Java反射之变量
 date: 2016-05-12 00:52:55
 tags:
-    - JAVA
+    - Java SE
 toc: true
 ---
 ### Java Reflection Fields

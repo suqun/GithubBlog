@@ -3,8 +3,8 @@ title: 基于Docker的java微服务(一) 部署Chris Richardson的转账案例
 toc: true
 date: 2016-08-24 19:23:15
 tags: 
-    - DOCKER
-    - SPRING BOOT 
+    - Docker
+    - Spring Boot
     - CQRS
     - Event-Sourcing
 ---

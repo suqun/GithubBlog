@@ -3,7 +3,7 @@ title: 基于Docker的java微服务(二) CentOS7部署Kubernetes集群
 toc: true
 date: 2016-09-07 19:23:15
 tags: 
-    - DOCKER
+    - Docker
     - K8s
 ---
 

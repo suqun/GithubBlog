@@ -2,8 +2,7 @@
 title: Spring Boot安装
 date: 2016-02-16 22:54:54
 tags: 
-    - SPRING BOOT
-    - SPRING
+    - Spring Boot
 toc: true
 ---
 

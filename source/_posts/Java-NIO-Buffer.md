@@ -1,7 +1,7 @@
 ---
 title: Java NIO Buffer
 date: 2016-06-28 22:10:31
-tags: JAVA NIO
+tags: Java NIO
 toc: true
 ---
 
@@ -15,5 +15,7 @@ Buffer本质上是可以读写数据的内存块。这个内存块被NIO的Buffe
 
 1. 数据写入Buffer
 2. 调用 buffer.flip()
-3. Read data out of the Buffer
-4. Call buffer.clear() or buffer.compact()
+3. 从Buffer中读出数据
+4. 调用buffer.clear()或者buffer.compact()方法
+
+

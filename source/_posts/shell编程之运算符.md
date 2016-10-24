@@ -2,8 +2,8 @@
 title: shell编程之运算符
 date: 2016-01-09 12:14:05
 tags: 
-    - SHELL
-    - LINUX
+    - Shell
+    - Linux
 toc: true
 ---
 

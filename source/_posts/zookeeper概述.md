@@ -2,7 +2,7 @@
 title: zookeeper概述
 date: 2015-12-27 21:22:49
 tags: 
-    - ZOOKEEPER
+    - Zookeeper
 toc: true
 ---
 

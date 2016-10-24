@@ -2,7 +2,7 @@
 title: Java反射之泛型
 date: 2016-05-21 00:52:55
 tags:
-    - JAVA
+    - Java SE
 toc: true
 ---
 原文地址[Java Reflection Generics](http://tutorials.jenkov.com/java-reflection/generics.html)

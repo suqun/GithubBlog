@@ -2,7 +2,7 @@
 title: 第一个Spring Boot应用
 date: 2016-02-17 22:32:06
 tags:
-    - SPRING BOOT
+    - Spring Boot
 toc: true
 ---
 

@@ -2,11 +2,11 @@
 title: Spring Cloud构建微服务架构（三）断路器
 date: 2016-08-05 10:02:21
 tags: 
-    - SPRING BOOT
-    - SPRING CLOUD
-    - NETFLIX
-    - EUREKA
-    - HYSTRIX
+    - Spring Boot
+    - Spring Cloud
+    - Netflix
+    - Eureka
+    - Hystrix
 toc: true
 ---
 

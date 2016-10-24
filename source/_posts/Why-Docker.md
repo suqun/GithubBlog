@@ -1,7 +1,7 @@
 ---
 title: Why Docker?
 date: 2015-12-30 23:42:52
-tags: DOCKER
+tags: Docker
 toc: true
 ---
 

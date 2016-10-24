@@ -1,7 +1,7 @@
 ---
 title: zookeeper客户端命令
 date: 2015-12-28 23:24:14
-tags: ZOOKEEPER
+tags: Zookeeper
 toc: true
 ---
 

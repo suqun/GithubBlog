@@ -2,7 +2,7 @@
 title: 使用Spring Boot Jquery Datatables实现管理平台的表格
 date: 2016-04-03 14:21:46
 tags:
-    - SPRING BOOT
+    - Spring Boot
 toc: true
 ---
 

@@ -2,11 +2,11 @@
 title: Spring Cloud构建微服务架构（四）集群
 date: 2016-08-05 10:07:59
 tags: 
-    - SPRING BOOT
-    - SPRING CLOUD
-    - NETFLIX
-    - EUREKA
-    - RIBBON
+    - Spring Boot
+    - Spring Cloud
+    - Netflix
+    - Eureka
+    - Ribbon
 toc: true
 ---
 
