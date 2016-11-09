@@ -45,7 +45,7 @@ public class ChannelExample {
 
         while (bytesRead != -1) {
             System.out.println("Read " + bytesRead);
-            buffer.flip();
+            buffer.flip();//切换读写模式，此处是由写切换到下面的读
             if (buffer.hasRemaining()) {
                 System.out.print((char) buffer.get());
             }
