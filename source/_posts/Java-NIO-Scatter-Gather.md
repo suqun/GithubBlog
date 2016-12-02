@@ -15,7 +15,7 @@ Java NIO 从一开始就内嵌了scatter/gather的支持。scatter/gather是从c
 
 scatter/gatter经常用于需要将传输的数据分开处理的场合。比如，一个信息包含head和body，你可能会将消息体和消息头分散到不同的buffer中，这样你可以方便的处理消息头和消息体。
 
-# Scattering Reads
+## Scattering Reads
  
 Scattering Reads，将单个channel中的数据读到多个buffers中，下面是原理图示： 
 
@@ -35,7 +35,7 @@ channel.read(bufferArray);
 
 Scattering Reads在移动下一个buffer前，必须填满当前的buffer，这也意味着它不适用于动态大小消息。换句话说，如果存在消息头和消息体，消息头必须完成填充（例如填满128byte），Scattering Reads才能正常工作。
 
-# Gathering Writes
+## Gathering Writes
 
 Gathering Writes：将多个buffers中的数据写入单个channel，下面是原理图示：
 
